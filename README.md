@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kusal Wijekoon</h1>
-<h3 align="center">Full-stack developer fluent in both code and data. Building beautiful, intelligent web experiences fueled by Data Science and Machine Learning. Let's turn insights into action!</h3>
+<h3 align="center">Full Stack Software Engineer fluent in both code and data. Building beautiful, intelligent web experiences fueled by Data Science and Machine Learning. Let's turn insights into action!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkw97&label=Profile%20views&color=0e75b6&style=flat" alt="iamkw97" /> </p>
 
