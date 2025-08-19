@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 <h3 align="center">Full Stack Software Engineer fluent in both code and data. Building beautiful, intelligent web experiences fueled by Data Science and Machine Learning. Let's turn insights into action!</h3>
-🔭 I’m currently working on MyLibrary, Shopbox & DMS<br>🌱 I’m currently learning DevOps<br>📫 How to reach me iamkusalwijekoon@yahoo.com
+🔭 I’m currently working on MyLibrary, Shopbox & DMS.<br>🌱 I’m currently learning DevOps.<br>📫 How to reach me iamkw97@gmail.com.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamkw97&icon=10&color=13)](https://visitcount.itsvg.in)
