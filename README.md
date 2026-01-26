@@ -73,8 +73,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamkw97&show_icons=true&theme=graywhite&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkw97&theme=graywhite&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=iamkw97&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=iamkw97&theme=graywhite&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
 </p>
 
 <p align="center">
