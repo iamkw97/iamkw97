@@ -1,16 +1,17 @@
-<h1 align="center">Hi, I'm Kusal Wijekoon 👋</h1>
+<h1 align="center">Hi👋</h1>
+<!-- <h1 align="center">Hi, I'm Kusal Wijekoon 👋</h1> -->
 
 <p align="center">
   <b>Full-Stack Software Engineer</b> · <b>DevOps Enthusiast</b> · <b>Data-Driven Builder</b><br/>
   Crafting scalable web systems, clean architectures, and insight-driven products.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:iamkw97@gmail.com">iamkw97@gmail.com</a> •
   <a href="https://linkedin.com/in/kusalwijekoon">LinkedIn</a> •
   <a href="https://stackoverflow.com/users/iamkw97">Stack Overflow</a> •
   <a href="https://kaggle.com/iamkw97">Kaggle</a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=iamkw97&icon=5&color=6" />
