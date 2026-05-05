@@ -22,11 +22,25 @@
 const kusal = {
   role        : "Full-Stack Software Engineer",
   location    : "Sri Lanka 🇱🇰",
-  building    : ["MyLibrary", "Shopbox", "DMS"],
-  focus       : ["Scalable Systems", "Clean Architecture", "Real-World Impact"],
-  learning    : ["DevOps", "Cloud Architecture", "ML-Powered Features"],
-  funFact     : "I debug with coffee ☕ and deploy with confidence 🚀"
-};
+
+  stack       : {
+    frontend  : ["React", "Next.js", "TypeScript"],
+    backend   : ["Node.js", "NestJS", "PostgreSQL"],
+    devops    : ["Docker", "CI/CD", "AWS (learning)"],
+  },
+
+  beliefs     : [
+    "Clean code is a love letter to your future self",
+    "Architecture decisions age — make them wisely",
+    "Ship fast, refactor often, break nothing",
+  ],
+
+  currentlyObsessedWith : "Cloud architecture & ML-powered features",
+
+  offDuty     : "Probably debugging something over coffee ☕",
+
+  openTo      : ["Interesting problems", "Collaboration", "Opportunities"],
+} as const;
 ```
 
 ---
